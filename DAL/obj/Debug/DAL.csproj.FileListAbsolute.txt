@@ -1,0 +1,17 @@
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\DAL.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\DAL.pdb
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\Entity.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\Entity.pdb
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\obj\Debug\DAL.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\obj\Debug\DAL.pdb
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\ClosedXML.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\FastMember.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\System.IO.Packaging.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\ClosedXML.pdb
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\ClosedXML.xml
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\I E Parodi\source\repos\Peymentstofees\DAL\bin\Debug\ExcelNumberFormat.xml

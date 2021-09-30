@@ -1,0 +1,15 @@
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\Entity.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\Entity.pdb
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\obj\Debug\Entity.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\obj\Debug\Entity.pdb
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\ClosedXML.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\ExcelNumberFormat.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\FastMember.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\System.IO.Packaging.dll
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\ClosedXML.pdb
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\ClosedXML.xml
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\bin\Debug\ExcelNumberFormat.xml
+C:\Users\I E Parodi\source\repos\Peymentstofees\Entity\obj\Debug\Entity.csproj.CopyComplete
